@@ -9,3 +9,6 @@ This project will analyze data extrapolated from the LMPD Crime database. It sho
    - Pandas
    - Numpy
    - Seaborn
+
+# Output
+The visualizations show which crimes were reported with the greatest frequency, which zip codes reportedly had the most crime, which crimes were reported with the least frequency, and which zip codes had the least crime.
